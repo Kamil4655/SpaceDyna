@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SpaceDyna.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpaceDyna.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\backgrounds\\rocket.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\backgrounds\\rocket.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\logos\\dark-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logos\\dark-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\products\\s1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\products\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\products\\s11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\products\\s11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\products\\s4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\products\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\products\\s5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\products\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\products\\s7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\products\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\admin\\assets\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-space-dynamic.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\about-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\about-left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\baner-dec-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-dec-left.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\baner-dec-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-dec-right.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\banner-right-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-right-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-blog-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\blog-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\contact-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\contact-decoration.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-decoration.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\portfolio-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\service-icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\service-icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\service-icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\service-icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\images\\services-left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\services-left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\assets\\js\\templatemo-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.19\\Desktop\\SpaceeDynamic\\SpaceDyna\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpaceDyna.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpaceDyna.props",
+      "PackagePath": "build\\SpaceDyna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpaceDyna.props",
+      "PackagePath": "buildMultiTargeting\\SpaceDyna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpaceDyna.props",
+      "PackagePath": "buildTransitive\\SpaceDyna.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
